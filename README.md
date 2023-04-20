@@ -13,13 +13,11 @@
 4. arXiv周六周日不更新论文。
 ```
 
-## example
+## ⌨Example
 
-> 一个实例：
->
 > 1. Title: Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca.
 > 2. Authors: Yiming Cui, Ziqing Yang, Xin Yao.
-> 3. Affiliation: 无.
+> 3. Affiliation: 无
 > 4. Keywords: Large Language Models, natural language processing, Chinese language, open-source software.
 > 5. Urls: arXiv:2304.08177v1, Github: https://github.com/ymcui/Chinese-LLaMA-Alpaca.
 > 6. Summary:
