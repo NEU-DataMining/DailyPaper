@@ -13,7 +13,7 @@
 4. arXiv周六周日不更新论文。
 ```
 
-## ⌨Example
+## 📝Example
 
 > 1. Title: Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca.
 > 2. Authors: Yiming Cui, Ziqing Yang, Xin Yao.
@@ -39,6 +39,26 @@
 | humorous dialogue    | humorous dialogue                        |
 | diffusion            | diffusion, image, text, image generation |
 | large language model | LLM, large language model                |
+
+
+## ⌨代码
+
+本项目的代码是用api2d做了中转，如果要直接使用chatgpt的服务，只需要修改 `api2d.py`文件的请求链接和请求头。
+
+```python
+# 基本配置信息, 保存apikey, email, query, key words等信息
+config.ini 
+# arxiv爬虫
+get_arxiv.py
+# 本地数据库
+database.py
+# 发送邮件
+send_email.py
+# 处理pdf
+process_pdf.get_summary.py, prompt_convert_json.py 
+# 🧠大脑
+NavigoX.py
+```
 
 ## ✏参考项目
 
