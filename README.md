@@ -44,12 +44,14 @@
 | query                | key words                                |
 | :------------------- | :--------------------------------------- |
 | chatgpt              | chatgpt                                  |
-| multimodal           | multimoal, text, image, video            |
+| multimodal           | multimodal, text, image, video            |
 | dialogue system      | dialogue system, chatbot, chat-bot       |
 | empathetic dialogue  | empathetic dialogue, ed                  |
 | humorous dialogue    | humorous dialogue                        |
 | diffusion            | diffusion, image, text, image generation |
 | large language model | LLM, large language model                |
+| contrastive learning | contrastive learning, text generation, negative response, negative example, attention mask, multi-modal, dialog |
+| reinforcement learning | rl, reinforcement learning, reinforcement learning from human feedback |
 
 ## ⌨代码
 
